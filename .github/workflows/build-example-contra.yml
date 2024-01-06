@@ -9,3 +9,5 @@ jobs:
     uses: ./.github/workflows/main.yml
     with:
       keyboard: '["hazel/bad_wings"]'
+      alphas: '["qwerty"]'
+      nav: '["vi"]'
