@@ -22,19 +22,6 @@ MIRYOKU_X(GAMENUM,"GameNum") \
 
 #define MIRYOKU_LAYERMAPPING_GAMENUM MIRYOKU_MAPPING
 
-#define U_BASE        0
-#define U_EXTRA       1
-#define U_TAP         2
-#define U_BUTTON      3
-#define U_NAV         4
-#define U_MOUSE       5
-#define U_MEDIA       6
-#define U_NUM         7
-#define U_SYM         8
-#define U_FUN         9
-#define U_GAMENUM    10
-
-
 #define MIRYOKU_LAYER_TAP \
 KC_Q,             KC_W,             KC_F,             KC_P,             KC_B,             KC_J,             KC_L,             KC_U,             KC_Y,             KC_SQT,           \
 KC_A,             KC_R,             KC_S,             KC_T,             KC_G,             KC_M,             KC_N,             KC_E,             KC_I,             KC_O,             \
