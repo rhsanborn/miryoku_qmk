@@ -1,0 +1,13 @@
+# Copyright 2021 Manna Harbour
+# https://github.com/manna-harbour/miryoku
+
+name: 'crkbd with colemakdh and vi nav'
+on:
+  - workflow_dispatch
+jobs:
+  build:
+    uses: ./.github/workflows/main.yml
+    with:
+      keyboard: '["crkbd"]'
+      alphas: '["colemakdh"]'
+      nav: '["vi"]'
