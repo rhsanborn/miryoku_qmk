@@ -30,6 +30,6 @@ U_NP,              U_NP,              KC_ESC,           KC_SPC,     LT(U_GAMENUM
 
 #define MIRYOKU_LAYER_GAMENUM \
 KC_F1,            KC_F2,            KC_F3,            KC_F4,            KC_TILD,         KC_LBRC,          KC_F7,            KC_F8,            KC_F9,            KC_RBRC,         \
-KC_6,         KC_7,         KC_8,         KC_9,         KC_0,         KC_EQL,           KC_F4,            KC_F5,            KC_F6,            KC_SEMI,         \
+KC_6,         KC_7,         KC_8,         KC_9,         KC_0,         KC_EQL,           KC_F4,            KC_F5,            KC_F6,            KC_SCLN,         \
 KC_1,         KC_2,         KC_3,         KC_4,         KC_5,         KC_BSLS,          KC_F1,            KC_F2,            KC_F3,            KC_TILD,        \
 U_NP,              U_NP,              KC_ESC,           KC_SPC,           U_NP,           KC_MINS,         KC_0,        KC_DOT,           U_NP,              U_NP
