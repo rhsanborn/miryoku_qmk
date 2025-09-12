@@ -7,8 +7,6 @@
 
 #define MIRYOKU_KLUDGE_DOUBLETAPBOOT
 
-#define XXX &none
-
 #define MIRYOKU_LAYER_LIST \
 MIRYOKU_X(BASE,   "Base") \
 MIRYOKU_X(EXTRA,  "Extra") \
